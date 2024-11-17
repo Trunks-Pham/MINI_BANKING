@@ -21,7 +21,7 @@ MINI_BANKING is a project designed to simulate basic banking operations. Develop
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/MINI_BANKING.git
+   git clone https://github.com/Trunks-Pham/MINI_BANKING.git
    ```
 3. **Open the project**:
    - Open the project in Visual Studio by double-clicking the `MiniBanking.sln` file.
