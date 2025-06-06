@@ -1,11 +1,12 @@
 # MINI BANKING by PHAM MINH THAO
 
-![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/Trunks-Pham/MINI_BANKING?color=00ADB5&style=for-the-badge)
-
 ## Introduction
 
 MINI_BANKING is a project designed to simulate basic banking operations. Developed using C#, this project aims to provide a simple yet functional banking system that includes features such as account management, transactions, and security.
+
+**Watch the Version 2 MTPE_BANK Introduction Video:**
+
+[![MTPE_BANK Introduction Video](https://img.youtube.com/vi/3zBvXEDJb-w/0.jpg)](https://www.youtube.com/watch?v=3zBvXEDJb-w)
 
 ## Features
 
@@ -23,6 +24,7 @@ MINI_BANKING is a project designed to simulate basic banking operations. Develop
    ```bash
    git clone https://github.com/Trunks-Pham/MINI_BANKING.git
    ```
+
 3. **Open the project**:
    - Open the project in Visual Studio by double-clicking the `MiniBanking.sln` file.
 
@@ -37,6 +39,14 @@ MINI_BANKING is a project designed to simulate basic banking operations. Develop
 - Access the application through the interface provided by Visual Studio.
 - Register a new account or log in with an existing account.
 - Perform banking functions such as transferring money, viewing transaction history, etc.
+
+## Screenshots
+
+Below are key visuals of the MINI_BANKING project:
+- **Registration Screen**:
+  ![Registration Screen](Đăng_ký_nhập.png)
+- **Home and Information Page**:
+  ![Home and Information Page](trang_chủ_thông_tin.png)
 
 ## Contributing
 
